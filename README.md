@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shounak2006/Leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/shounak2006/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
