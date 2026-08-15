@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shounak2006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/shounak2006/Leetcode/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/shounak2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shounak2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shounak2006/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
